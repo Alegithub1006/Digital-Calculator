@@ -25,6 +25,7 @@ const WindowCalculator = ()=>{
             <Button label={'/'}/>
             <Button label={'AC'}/>
             <Button label={'Reset'}/>
+                <p>actividad de la calculadora</p>
         </div>
     )
 }
